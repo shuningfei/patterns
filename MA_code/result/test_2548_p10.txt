@@ -1,0 +1,29 @@
+count: 2291
+count: 2805
+count: 3425
+count: 3119
+interLength: 743
+i: 1202
+num: 228.7
+Precision: 0.190266222962
+Recall: 0.0897566718995
+1202
+comparable precision: 0.204441453567
+i: 1273
+num: 280.3
+Precision: 0.220188531029
+Recall: 0.110007849294
+1273
+comparable precision: 0.232301480485
+i: 1847
+num: 342.5
+Precision: 0.185435841906
+Recall: 0.134419152276
+1847
+comparable precision: 0.188829071332
+i: 1947
+num: 311.5
+Precision: 0.159989727786
+Recall: 0.122252747253
+1947
+comparable precision: 0.140511440108

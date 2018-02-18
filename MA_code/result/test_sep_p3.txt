@@ -1,0 +1,1320 @@
+serves
+count: 345
+count: 476
+count: 412
+count: 245
+characters
+count: 59
+count: 56
+count: 57
+count: 35
+series
+count: 122
+count: 173
+count: 86
+count: 48
+work
+count: 199
+count: 210
+count: 254
+count: 275
+artist
+count: 0
+count: 6
+count: 5
+count: 2
+genre
+count: 170
+count: 192
+count: 172
+count: 141
+companies
+count: 0
+count: 2
+count: 2
+count: 0
+videogame
+count: 72
+count: 54
+count: 37
+count: 38
+version
+count: 485
+count: 538
+count: 523
+count: 531
+institution
+count: 229
+count: 262
+count: 238
+count: 209
+cinematography
+count: 61
+count: 32
+count: 24
+count: 39
+country
+count: 135
+count: 117
+count: 127
+count: 159
+directed
+count: 204
+count: 139
+count: 90
+count: 121
+film
+count: 6
+count: 6
+count: 6
+count: 8
+language
+count: 197
+count: 162
+count: 133
+count: 129
+music
+count: 28
+count: 28
+count: 9
+count: 4
+rating
+count: 0
+count: 2
+count: 1
+count: 4
+sequel
+count: 130
+count: 69
+count: 31
+count: 51
+cities
+count: 156
+count: 158
+count: 77
+count: 52
+mouth
+count: 69
+count: 84
+count: 47
+count: 35
+contains
+count: 4
+count: 5
+count: 16
+count: 16
+artist_genre
+count: 167
+count: 268
+count: 246
+count: 126
+label
+count: 59
+count: 31
+count: 25
+count: 24
+origin
+count: 80
+count: 92
+count: 107
+count: 81
+composer
+count: 303
+count: 294
+count: 318
+count: 241
+lyricist
+count: 61
+count: 21
+count: 7
+count: 6
+albums
+count: 4
+count: 6
+count: 4
+count: 6
+founders
+count: 205
+count: 198
+count: 56
+count: 55
+sectors
+count: 58
+count: 107
+count: 80
+count: 63
+person cause of death
+count: 150
+count: 70
+count: 68
+count: 78
+person place of death
+count: 139
+count: 167
+count: 170
+count: 66
+people
+count: 2
+count: 8
+count: 8
+count: 0
+members
+count: 0
+count: 73
+count: 58
+count: 0
+nationality
+count: 230
+count: 157
+count: 144
+count: 168
+place of birth
+count: 46
+count: 55
+count: 46
+count: 39
+profession
+count: 100
+count: 87
+count: 123
+count: 106
+religion
+count: 76
+count: 74
+count: 65
+count: 71
+player
+count: 179
+count: 154
+count: 137
+count: 191
+locations
+count: 123
+count: 122
+count: 70
+count: 49
+program
+count: 431
+count: 290
+count: 311
+count: 418
+serves
+totalNum: 59
+interLength: 59
+i: 59
+num: 37.0
+Precision: 0.627118644068
+Recall: 0.627118644068
+comparable precision: 0.627118644068
+59
+i: 59
+num: 48.0
+Precision: 0.813559322034
+Recall: 0.813559322034
+comparable precision: 0.813559322034
+59
+i: 59
+num: 44.3333333333
+Precision: 0.751412429379
+Recall: 0.751412429379
+comparable precision: 0.751412429379
+59
+i: 59
+num: 27.6666666667
+Precision: 0.468926553672
+Recall: 0.468926553672
+comparable precision: 0.468926553672
+59
+
+characters
+totalNum: 60
+interLength: 60
+i: 60
+num: 5.66666666667
+Precision: 0.0944444444444
+Recall: 0.0944444444444
+comparable precision: 0.0944444444444
+60
+i: 60
+num: 7.66666666667
+Precision: 0.127777777778
+Recall: 0.127777777778
+comparable precision: 0.127777777778
+60
+i: 60
+num: 7.66666666667
+Precision: 0.127777777778
+Recall: 0.127777777778
+comparable precision: 0.127777777778
+60
+i: 60
+num: 3.33333333333
+Precision: 0.0555555555556
+Recall: 0.0555555555556
+comparable precision: 0.0555555555556
+60
+
+series
+totalNum: 60
+interLength: 60
+i: 60
+num: 20.3333333333
+Precision: 0.338888888889
+Recall: 0.338888888889
+comparable precision: 0.338888888889
+60
+i: 60
+num: 21.6666666667
+Precision: 0.361111111111
+Recall: 0.361111111111
+comparable precision: 0.361111111111
+60
+i: 60
+num: 10.6666666667
+Precision: 0.177777777778
+Recall: 0.177777777778
+comparable precision: 0.177777777778
+60
+i: 60
+num: 5.66666666667
+Precision: 0.0944444444444
+Recall: 0.0944444444444
+comparable precision: 0.0944444444444
+60
+
+work
+totalNum: 58
+interLength: 58
+i: 58
+num: 34.6666666667
+Precision: 0.597701149425
+Recall: 0.597701149425
+comparable precision: 0.597701149425
+58
+i: 58
+num: 29.3333333333
+Precision: 0.505747126437
+Recall: 0.505747126437
+comparable precision: 0.505747126437
+58
+i: 58
+num: 34.3333333333
+Precision: 0.591954022989
+Recall: 0.591954022989
+comparable precision: 0.591954022989
+58
+i: 58
+num: 37.6666666667
+Precision: 0.649425287356
+Recall: 0.649425287356
+comparable precision: 0.649425287356
+58
+
+artist
+totalNum: 60
+interLength: 60
+i: 60
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+60
+i: 60
+num: 0.666666666667
+Precision: 0.0111111111111
+Recall: 0.0111111111111
+comparable precision: 0.0111111111111
+60
+i: 60
+num: 0.666666666667
+Precision: 0.0111111111111
+Recall: 0.0111111111111
+comparable precision: 0.0111111111111
+60
+i: 60
+num: 0.666666666667
+Precision: 0.0111111111111
+Recall: 0.0111111111111
+comparable precision: 0.0111111111111
+60
+
+genre
+totalNum: 60
+interLength: 59
+i: 60
+num: 17.6666666667
+Precision: 0.294444444444
+Recall: 0.294444444444
+comparable precision: 0.282485875706
+60
+i: 59
+num: 21.0
+Precision: 0.35593220339
+Recall: 0.35
+comparable precision: 0.35593220339
+59
+i: 59
+num: 19.3333333333
+Precision: 0.327683615819
+Recall: 0.322222222222
+comparable precision: 0.327683615819
+59
+i: 60
+num: 14.6666666667
+Precision: 0.244444444444
+Recall: 0.244444444444
+comparable precision: 0.231638418079
+60
+
+companies
+totalNum: 60
+interLength: 60
+i: 60
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+60
+i: 60
+num: 0.666666666667
+Precision: 0.0111111111111
+Recall: 0.0111111111111
+comparable precision: 0.0111111111111
+60
+i: 60
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+60
+i: 60
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+60
+
+videogame
+totalNum: 60
+interLength: 54
+i: 60
+num: 12.0
+Precision: 0.2
+Recall: 0.2
+comparable precision: 0.222222222222
+60
+i: 54
+num: 9.0
+Precision: 0.166666666667
+Recall: 0.15
+comparable precision: 0.166666666667
+54
+i: 60
+num: 7.66666666667
+Precision: 0.127777777778
+Recall: 0.127777777778
+comparable precision: 0.12962962963
+60
+i: 59
+num: 7.0
+Precision: 0.118644067797
+Recall: 0.116666666667
+comparable precision: 0.12962962963
+59
+
+version
+totalNum: 120
+interLength: 120
+i: 120
+num: 64.3333333333
+Precision: 0.536111111111
+Recall: 0.536111111111
+comparable precision: 0.536111111111
+120
+i: 120
+num: 66.6666666667
+Precision: 0.555555555556
+Recall: 0.555555555556
+comparable precision: 0.555555555556
+120
+i: 120
+num: 52.6666666667
+Precision: 0.438888888889
+Recall: 0.438888888889
+comparable precision: 0.438888888889
+120
+i: 120
+num: 59.6666666667
+Precision: 0.497222222222
+Recall: 0.497222222222
+comparable precision: 0.497222222222
+120
+
+institution
+totalNum: 120
+interLength: 120
+i: 120
+num: 27.0
+Precision: 0.225
+Recall: 0.225
+comparable precision: 0.225
+120
+i: 120
+num: 27.6666666667
+Precision: 0.230555555556
+Recall: 0.230555555556
+comparable precision: 0.230555555556
+120
+i: 120
+num: 28.0
+Precision: 0.233333333333
+Recall: 0.233333333333
+comparable precision: 0.233333333333
+120
+i: 120
+num: 30.3333333333
+Precision: 0.252777777778
+Recall: 0.252777777778
+comparable precision: 0.252777777778
+120
+
+cinematography
+totalNum: 58
+interLength: 57
+i: 58
+num: 11.3333333333
+Precision: 0.195402298851
+Recall: 0.195402298851
+comparable precision: 0.19298245614
+58
+i: 58
+num: 5.33333333333
+Precision: 0.0919540229885
+Recall: 0.0919540229885
+comparable precision: 0.093567251462
+58
+i: 57
+num: 5.0
+Precision: 0.0877192982456
+Recall: 0.0862068965517
+comparable precision: 0.0877192982456
+57
+i: 58
+num: 5.66666666667
+Precision: 0.0977011494253
+Recall: 0.0977011494253
+comparable precision: 0.0994152046784
+58
+
+country
+totalNum: 60
+interLength: 60
+i: 60
+num: 24.3333333333
+Precision: 0.405555555556
+Recall: 0.405555555556
+comparable precision: 0.405555555556
+60
+i: 60
+num: 18.0
+Precision: 0.3
+Recall: 0.3
+comparable precision: 0.3
+60
+i: 60
+num: 16.3333333333
+Precision: 0.272222222222
+Recall: 0.272222222222
+comparable precision: 0.272222222222
+60
+i: 60
+num: 29.0
+Precision: 0.483333333333
+Recall: 0.483333333333
+comparable precision: 0.483333333333
+60
+
+directed
+totalNum: 58
+interLength: 57
+i: 58
+num: 27.3333333333
+Precision: 0.471264367816
+Recall: 0.471264367816
+comparable precision: 0.479532163743
+58
+i: 57
+num: 19.0
+Precision: 0.333333333333
+Recall: 0.327586206897
+comparable precision: 0.333333333333
+57
+i: 58
+num: 12.0
+Precision: 0.206896551724
+Recall: 0.206896551724
+comparable precision: 0.210526315789
+58
+i: 58
+num: 17.3333333333
+Precision: 0.298850574713
+Recall: 0.298850574713
+comparable precision: 0.304093567251
+58
+
+film
+totalNum: 60
+interLength: 59
+i: 60
+num: 1.33333333333
+Precision: 0.0222222222222
+Recall: 0.0222222222222
+comparable precision: 0.0225988700565
+60
+i: 60
+num: 1.0
+Precision: 0.0166666666667
+Recall: 0.0166666666667
+comparable precision: 0.0169491525424
+60
+i: 59
+num: 1.66666666667
+Precision: 0.0282485875706
+Recall: 0.0277777777778
+comparable precision: 0.0282485875706
+59
+i: 60
+num: 1.33333333333
+Precision: 0.0222222222222
+Recall: 0.0222222222222
+comparable precision: 0.0225988700565
+60
+
+language
+totalNum: 59
+interLength: 57
+i: 59
+num: 26.0
+Precision: 0.440677966102
+Recall: 0.440677966102
+comparable precision: 0.444444444444
+59
+i: 58
+num: 23.3333333333
+Precision: 0.402298850575
+Recall: 0.395480225989
+comparable precision: 0.40350877193
+58
+i: 57
+num: 14.3333333333
+Precision: 0.251461988304
+Recall: 0.242937853107
+comparable precision: 0.251461988304
+57
+i: 59
+num: 16.3333333333
+Precision: 0.276836158192
+Recall: 0.276836158192
+comparable precision: 0.25730994152
+59
+
+music
+totalNum: 60
+interLength: 60
+i: 60
+num: 3.33333333333
+Precision: 0.0555555555556
+Recall: 0.0555555555556
+comparable precision: 0.0555555555556
+60
+i: 60
+num: 4.33333333333
+Precision: 0.0722222222222
+Recall: 0.0722222222222
+comparable precision: 0.0722222222222
+60
+i: 60
+num: 2.0
+Precision: 0.0333333333333
+Recall: 0.0333333333333
+comparable precision: 0.0333333333333
+60
+i: 60
+num: 0.666666666667
+Precision: 0.0111111111111
+Recall: 0.0111111111111
+comparable precision: 0.0111111111111
+60
+
+rating
+totalNum: 60
+interLength: 60
+i: 60
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+60
+i: 60
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+60
+i: 60
+num: 0.333333333333
+Precision: 0.00555555555556
+Recall: 0.00555555555556
+comparable precision: 0.00555555555556
+60
+i: 60
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+60
+
+sequel
+totalNum: 56
+interLength: 56
+i: 56
+num: 18.6666666667
+Precision: 0.333333333333
+Recall: 0.333333333333
+comparable precision: 0.333333333333
+56
+i: 56
+num: 10.0
+Precision: 0.178571428571
+Recall: 0.178571428571
+comparable precision: 0.178571428571
+56
+i: 56
+num: 4.0
+Precision: 0.0714285714286
+Recall: 0.0714285714286
+comparable precision: 0.0714285714286
+56
+i: 56
+num: 8.33333333333
+Precision: 0.14880952381
+Recall: 0.14880952381
+comparable precision: 0.14880952381
+56
+
+cities
+totalNum: 53
+interLength: 52
+i: 53
+num: 19.6666666667
+Precision: 0.37106918239
+Recall: 0.37106918239
+comparable precision: 0.365384615385
+53
+i: 52
+num: 14.0
+Precision: 0.269230769231
+Recall: 0.264150943396
+comparable precision: 0.269230769231
+52
+i: 52
+num: 7.0
+Precision: 0.134615384615
+Recall: 0.132075471698
+comparable precision: 0.134615384615
+52
+i: 53
+num: 5.0
+Precision: 0.0943396226415
+Recall: 0.0943396226415
+comparable precision: 0.0961538461538
+53
+
+mouth
+totalNum: 58
+interLength: 58
+i: 58
+num: 11.3333333333
+Precision: 0.195402298851
+Recall: 0.195402298851
+comparable precision: 0.195402298851
+58
+i: 58
+num: 14.3333333333
+Precision: 0.247126436782
+Recall: 0.247126436782
+comparable precision: 0.247126436782
+58
+i: 58
+num: 6.33333333333
+Precision: 0.109195402299
+Recall: 0.109195402299
+comparable precision: 0.109195402299
+58
+i: 58
+num: 4.66666666667
+Precision: 0.0804597701149
+Recall: 0.0804597701149
+comparable precision: 0.0804597701149
+58
+
+contains
+totalNum: 59
+interLength: 59
+i: 59
+num: 0.333333333333
+Precision: 0.00564971751412
+Recall: 0.00564971751412
+comparable precision: 0.00564971751412
+59
+i: 59
+num: 0.333333333333
+Precision: 0.00564971751412
+Recall: 0.00564971751412
+comparable precision: 0.00564971751412
+59
+i: 59
+num: 3.33333333333
+Precision: 0.0564971751412
+Recall: 0.0564971751412
+comparable precision: 0.0564971751412
+59
+i: 59
+num: 3.33333333333
+Precision: 0.0564971751412
+Recall: 0.0564971751412
+comparable precision: 0.0564971751412
+59
+
+artist_genre
+totalNum: 115
+interLength: 115
+i: 115
+num: 28.0
+Precision: 0.24347826087
+Recall: 0.24347826087
+comparable precision: 0.24347826087
+115
+i: 115
+num: 37.3333333333
+Precision: 0.324637681159
+Recall: 0.324637681159
+comparable precision: 0.324637681159
+115
+i: 115
+num: 30.0
+Precision: 0.260869565217
+Recall: 0.260869565217
+comparable precision: 0.260869565217
+115
+i: 115
+num: 18.3333333333
+Precision: 0.159420289855
+Recall: 0.159420289855
+comparable precision: 0.159420289855
+115
+
+label
+totalNum: 60
+interLength: 60
+i: 60
+num: 13.3333333333
+Precision: 0.222222222222
+Recall: 0.222222222222
+comparable precision: 0.222222222222
+60
+i: 60
+num: 5.33333333333
+Precision: 0.0888888888889
+Recall: 0.0888888888889
+comparable precision: 0.0888888888889
+60
+i: 60
+num: 4.66666666667
+Precision: 0.0777777777778
+Recall: 0.0777777777778
+comparable precision: 0.0777777777778
+60
+i: 60
+num: 5.0
+Precision: 0.0833333333333
+Recall: 0.0833333333333
+comparable precision: 0.0833333333333
+60
+
+origin
+totalNum: 58
+interLength: 58
+i: 58
+num: 11.6666666667
+Precision: 0.201149425287
+Recall: 0.201149425287
+comparable precision: 0.201149425287
+58
+i: 58
+num: 14.3333333333
+Precision: 0.247126436782
+Recall: 0.247126436782
+comparable precision: 0.247126436782
+58
+i: 58
+num: 15.3333333333
+Precision: 0.264367816092
+Recall: 0.264367816092
+comparable precision: 0.264367816092
+58
+i: 58
+num: 12.3333333333
+Precision: 0.212643678161
+Recall: 0.212643678161
+comparable precision: 0.212643678161
+58
+
+composer
+totalNum: 60
+interLength: 60
+i: 60
+num: 36.0
+Precision: 0.6
+Recall: 0.6
+comparable precision: 0.6
+60
+i: 60
+num: 35.6666666667
+Precision: 0.594444444444
+Recall: 0.594444444444
+comparable precision: 0.594444444444
+60
+i: 60
+num: 36.0
+Precision: 0.6
+Recall: 0.6
+comparable precision: 0.6
+60
+i: 60
+num: 30.0
+Precision: 0.5
+Recall: 0.5
+comparable precision: 0.5
+60
+
+lyricist
+totalNum: 56
+interLength: 53
+i: 56
+num: 10.0
+Precision: 0.178571428571
+Recall: 0.178571428571
+comparable precision: 0.188679245283
+56
+i: 56
+num: 2.66666666667
+Precision: 0.047619047619
+Recall: 0.047619047619
+comparable precision: 0.0503144654088
+56
+i: 53
+num: 2.0
+Precision: 0.0377358490566
+Recall: 0.0357142857143
+comparable precision: 0.0377358490566
+53
+i: 56
+num: 1.66666666667
+Precision: 0.0297619047619
+Recall: 0.0297619047619
+comparable precision: 0.0314465408805
+56
+
+albums
+totalNum: 58
+interLength: 58
+i: 58
+num: 0.666666666667
+Precision: 0.0114942528736
+Recall: 0.0114942528736
+comparable precision: 0.0114942528736
+58
+i: 58
+num: 1.33333333333
+Precision: 0.0229885057471
+Recall: 0.0229885057471
+comparable precision: 0.0229885057471
+58
+i: 58
+num: 1.33333333333
+Precision: 0.0229885057471
+Recall: 0.0229885057471
+comparable precision: 0.0229885057471
+58
+i: 58
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+58
+
+founders
+totalNum: 58
+interLength: 58
+i: 58
+num: 26.0
+Precision: 0.448275862069
+Recall: 0.448275862069
+comparable precision: 0.448275862069
+58
+i: 58
+num: 25.3333333333
+Precision: 0.436781609195
+Recall: 0.436781609195
+comparable precision: 0.436781609195
+58
+i: 58
+num: 5.66666666667
+Precision: 0.0977011494253
+Recall: 0.0977011494253
+comparable precision: 0.0977011494253
+58
+i: 58
+num: 5.66666666667
+Precision: 0.0977011494253
+Recall: 0.0977011494253
+comparable precision: 0.0977011494253
+58
+
+sectors
+totalNum: 81
+interLength: 81
+i: 81
+num: 6.0
+Precision: 0.0740740740741
+Recall: 0.0740740740741
+comparable precision: 0.0740740740741
+81
+i: 81
+num: 12.0
+Precision: 0.148148148148
+Recall: 0.148148148148
+comparable precision: 0.148148148148
+81
+i: 81
+num: 7.66666666667
+Precision: 0.0946502057613
+Recall: 0.0946502057613
+comparable precision: 0.0946502057613
+81
+i: 81
+num: 7.0
+Precision: 0.0864197530864
+Recall: 0.0864197530864
+comparable precision: 0.0864197530864
+81
+
+person cause of death
+totalNum: 60
+interLength: 60
+i: 60
+num: 25.0
+Precision: 0.416666666667
+Recall: 0.416666666667
+comparable precision: 0.416666666667
+60
+i: 60
+num: 12.0
+Precision: 0.2
+Recall: 0.2
+comparable precision: 0.2
+60
+i: 60
+num: 9.33333333333
+Precision: 0.155555555556
+Recall: 0.155555555556
+comparable precision: 0.155555555556
+60
+i: 60
+num: 10.6666666667
+Precision: 0.177777777778
+Recall: 0.177777777778
+comparable precision: 0.177777777778
+60
+
+person place of death
+totalNum: 52
+interLength: 52
+i: 52
+num: 21.3333333333
+Precision: 0.410256410256
+Recall: 0.410256410256
+comparable precision: 0.410256410256
+52
+i: 52
+num: 18.3333333333
+Precision: 0.352564102564
+Recall: 0.352564102564
+comparable precision: 0.352564102564
+52
+i: 52
+num: 18.3333333333
+Precision: 0.352564102564
+Recall: 0.352564102564
+comparable precision: 0.352564102564
+52
+i: 52
+num: 9.33333333333
+Precision: 0.179487179487
+Recall: 0.179487179487
+comparable precision: 0.179487179487
+52
+
+people
+totalNum: 60
+interLength: 60
+i: 60
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+60
+i: 60
+num: 1.0
+Precision: 0.0166666666667
+Recall: 0.0166666666667
+comparable precision: 0.0166666666667
+60
+i: 60
+num: 1.0
+Precision: 0.0166666666667
+Recall: 0.0166666666667
+comparable precision: 0.0166666666667
+60
+i: 60
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+60
+
+members
+totalNum: 58
+interLength: 58
+i: 58
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+58
+i: 58
+num: 8.33333333333
+Precision: 0.14367816092
+Recall: 0.14367816092
+comparable precision: 0.14367816092
+58
+i: 58
+num: 6.0
+Precision: 0.103448275862
+Recall: 0.103448275862
+comparable precision: 0.103448275862
+58
+i: 58
+num: 0.0
+Precision: 0.0
+Recall: 0.0
+comparable precision: 0.0
+58
+
+nationality
+totalNum: 42
+interLength: 42
+i: 42
+num: 28.0
+Precision: 0.666666666667
+Recall: 0.666666666667
+comparable precision: 0.666666666667
+42
+i: 42
+num: 20.0
+Precision: 0.47619047619
+Recall: 0.47619047619
+comparable precision: 0.47619047619
+42
+i: 42
+num: 16.6666666667
+Precision: 0.396825396825
+Recall: 0.396825396825
+comparable precision: 0.396825396825
+42
+i: 42
+num: 22.0
+Precision: 0.52380952381
+Recall: 0.52380952381
+comparable precision: 0.52380952381
+42
+
+place of birth
+totalNum: 17
+interLength: 17
+i: 17
+num: 5.33333333333
+Precision: 0.313725490196
+Recall: 0.313725490196
+comparable precision: 0.313725490196
+17
+i: 17
+num: 6.33333333333
+Precision: 0.372549019608
+Recall: 0.372549019608
+comparable precision: 0.372549019608
+17
+i: 17
+num: 7.0
+Precision: 0.411764705882
+Recall: 0.411764705882
+comparable precision: 0.411764705882
+17
+i: 17
+num: 5.33333333333
+Precision: 0.313725490196
+Recall: 0.313725490196
+comparable precision: 0.313725490196
+17
+
+profession
+totalNum: 60
+interLength: 60
+i: 60
+num: 19.3333333333
+Precision: 0.322222222222
+Recall: 0.322222222222
+comparable precision: 0.322222222222
+60
+i: 60
+num: 14.0
+Precision: 0.233333333333
+Recall: 0.233333333333
+comparable precision: 0.233333333333
+60
+i: 60
+num: 20.3333333333
+Precision: 0.338888888889
+Recall: 0.338888888889
+comparable precision: 0.338888888889
+60
+i: 60
+num: 17.0
+Precision: 0.283333333333
+Recall: 0.283333333333
+comparable precision: 0.283333333333
+60
+
+religion
+totalNum: 60
+interLength: 59
+i: 60
+num: 8.66666666667
+Precision: 0.144444444444
+Recall: 0.144444444444
+comparable precision: 0.141242937853
+60
+i: 60
+num: 12.0
+Precision: 0.2
+Recall: 0.2
+comparable precision: 0.203389830508
+60
+i: 59
+num: 10.6666666667
+Precision: 0.180790960452
+Recall: 0.177777777778
+comparable precision: 0.180790960452
+59
+i: 60
+num: 8.33333333333
+Precision: 0.138888888889
+Recall: 0.138888888889
+comparable precision: 0.135593220339
+60
+
+player
+totalNum: 59
+interLength: 56
+i: 59
+num: 26.0
+Precision: 0.440677966102
+Recall: 0.440677966102
+comparable precision: 0.464285714286
+59
+i: 56
+num: 24.6666666667
+Precision: 0.440476190476
+Recall: 0.418079096045
+comparable precision: 0.440476190476
+56
+i: 59
+num: 23.0
+Precision: 0.389830508475
+Recall: 0.389830508475
+comparable precision: 0.410714285714
+59
+i: 59
+num: 25.0
+Precision: 0.423728813559
+Recall: 0.423728813559
+comparable precision: 0.422619047619
+59
+
+locations
+totalNum: 60
+interLength: 59
+i: 60
+num: 20.0
+Precision: 0.333333333333
+Recall: 0.333333333333
+comparable precision: 0.327683615819
+60
+i: 60
+num: 19.6666666667
+Precision: 0.327777777778
+Recall: 0.327777777778
+comparable precision: 0.322033898305
+60
+i: 59
+num: 15.3333333333
+Precision: 0.25988700565
+Recall: 0.255555555556
+comparable precision: 0.25988700565
+59
+i: 60
+num: 10.0
+Precision: 0.166666666667
+Recall: 0.166666666667
+comparable precision: 0.158192090395
+60
+
+program
+totalNum: 116
+interLength: 111
+i: 116
+num: 61.3333333333
+Precision: 0.528735632184
+Recall: 0.528735632184
+comparable precision: 0.513513513514
+116
+i: 111
+num: 36.6666666667
+Precision: 0.33033033033
+Recall: 0.316091954023
+comparable precision: 0.33033033033
+111
+i: 116
+num: 41.0
+Precision: 0.353448275862
+Recall: 0.353448275862
+comparable precision: 0.333333333333
+116
+i: 116
+num: 58.0
+Precision: 0.5
+Recall: 0.5
+comparable precision: 0.483483483483
+116
+

@@ -1,0 +1,99 @@
+nationality
+count: 1537
+count: 1293
+count: 1319
+count: 1163
+place of birth
+count: 229
+count: 145
+count: 99
+count: 127
+profession
+count: 990
+count: 1110
+count: 1180
+count: 1040
+nationality
+totalNum: 258
+interLength: 258
+i: 258
+num: 197.0
+Precision: 0.763565891473
+Recall: 0.763565891473
+comparable precision: 0.763565891473
+258
+i: 258
+num: 177.0
+Precision: 0.686046511628
+Recall: 0.686046511628
+comparable precision: 0.686046511628
+258
+i: 258
+num: 183.0
+Precision: 0.709302325581
+Recall: 0.709302325581
+comparable precision: 0.709302325581
+258
+i: 258
+num: 165.0
+Precision: 0.639534883721
+Recall: 0.639534883721
+comparable precision: 0.639534883721
+258
+
+place of birth
+totalNum: 88
+interLength: 87
+i: 88
+num: 33.0
+Precision: 0.375
+Recall: 0.375
+comparable precision: 0.379310344828
+88
+i: 88
+num: 20.0
+Precision: 0.227272727273
+Recall: 0.227272727273
+comparable precision: 0.229885057471
+88
+i: 87
+num: 21.0
+Precision: 0.241379310345
+Recall: 0.238636363636
+comparable precision: 0.241379310345
+87
+i: 88
+num: 25.0
+Precision: 0.284090909091
+Recall: 0.284090909091
+comparable precision: 0.287356321839
+88
+
+profession
+totalNum: 523
+interLength: 523
+i: 523
+num: 242.0
+Precision: 0.462715105163
+Recall: 0.462715105163
+comparable precision: 0.462715105163
+523
+i: 523
+num: 187.0
+Precision: 0.357552581262
+Recall: 0.357552581262
+comparable precision: 0.357552581262
+523
+i: 523
+num: 199.0
+Precision: 0.380497131931
+Recall: 0.380497131931
+comparable precision: 0.380497131931
+523
+i: 523
+num: 232.0
+Precision: 0.443594646272
+Recall: 0.443594646272
+comparable precision: 0.443594646272
+523
+
